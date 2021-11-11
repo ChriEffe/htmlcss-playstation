@@ -29,8 +29,5 @@ body  {
     height: 600px ;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
-}
-
-.jumbo-caption  {
-    width: 28%;
+    background-position: top;
 }
