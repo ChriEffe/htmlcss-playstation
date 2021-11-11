@@ -3,6 +3,9 @@ body  {
     font-family: Helvetica, sans-serif;
 }
 
+.white  {
+    color: white;
+}
 /* header */
 .header  {
     width: 100%;
@@ -19,7 +22,11 @@ body  {
 
 /* jumbotron */
 .jumbotron  {
-    height: 400px ;
+    height: 600px ;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
+}
+
+.jumbo-caption  {
+    width: 28%;
 }
