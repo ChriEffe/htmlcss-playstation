@@ -17,10 +17,9 @@ body  {
     width: 5em;
 }
 
-.my_btn  {
-    background-color: #363636;
-    border: none;
-    color: white;
-    border-radius: 20px;
-    padding: 0.5em 1em;
+/* jumbotron */
+.jumbotron  {
+    height: 400px ;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
 }
