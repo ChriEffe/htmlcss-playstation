@@ -10,6 +10,22 @@ body  {
 .rounded-5  {
     border-radius: 20px;
 }
+
+h2  {
+    margin-bottom: 1em;
+}
+
+h5  {
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #0072ce;
+    margin: 0;
+}
+
+p  {
+    color: grey;
+}
+
 /* header */
 .header  {
     width: 100%;
