@@ -24,6 +24,10 @@ body  {
     width: 5em;
 }
 
+.dropdown-item img  {
+    width: 5em;
+}
+
 /* jumbotron */
 .jumbotron  {
     height: 600px ;
