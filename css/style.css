@@ -40,8 +40,22 @@ p  {
     width: 5em;
 }
 
+/* dropdown menu */
 .dropdown-item img  {
     width: 5em;
+}
+
+.dropdown-toggle::after {
+    font-family: "Font Awesome 6 Free";
+    content: "\f078";
+    border: 0;
+    font-weight: 900;
+    font-size: 0.8em;
+}
+
+.dropdown-toggle.show::after {
+    font-family: "Font Awesome 6 Free";
+    content: "\f077";
 }
 
 /* jumbotron */
