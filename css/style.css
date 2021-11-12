@@ -60,8 +60,21 @@ p  {
 
 /* jumbotron */
 .jumbotron  {
-    height: 600px ;
+    height: 500px ;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: top;
+}
+
+/* banner */
+.banner  {
+    height: 500px ;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+/* playstation plus */
+.ps-plus  {
+    background-color: #bebcbb;
 }
