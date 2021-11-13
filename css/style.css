@@ -3,6 +3,7 @@ body  {
     font-family: Helvetica, sans-serif;
 }
 
+/* utilities */
 .white  {
     color: white;
 }
@@ -24,6 +25,18 @@ h5  {
 
 p  {
     color: grey;
+}
+
+.fs-05  {
+    font-size: 0.5em;
+}
+
+.fs-08  {
+    font-size: 0.8em;
+}
+
+.w-8  {
+    width: 8em;
 }
 
 /* header */
