@@ -79,6 +79,12 @@ p  {
     background-position: top;
 }
 
+.mini-cover  { 
+  transition: margin 1s ease;
+}
+.mini-cover:hover  {
+margin-top: -25px;
+
 /* banner */
 .banner  {
     height: 500px ;
