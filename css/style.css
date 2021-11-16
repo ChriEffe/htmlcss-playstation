@@ -39,6 +39,10 @@ p  {
     width: 8em;
 }
 
+.opacity  {
+    opacity: 0.5;
+}
+
 /* header */
 .header  {
     width: 100%;
@@ -82,8 +86,19 @@ p  {
 .mini-cover  { 
   transition: margin 1s ease;
 }
+
 .mini-cover:hover  {
 margin-top: -25px;
+}
+
+/* accessori */
+.cursor  {
+    transition: 1s;
+}
+.cursor:hover  {
+    cursor: pointer;
+    opacity: unset;
+}
 
 /* banner */
 .banner  {
